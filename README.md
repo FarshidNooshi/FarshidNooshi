@@ -1,6 +1,6 @@
 ### Hey 👋🏻,
 
-I am a Computer Engineering student at Amirkabir University of Technology. I've started to search about my interests in real world and find those that fits me the most.
+I am a Computer Engineering student at Amirkabir University of Technology. I've started to search about my interests in real world and find those that fits me best.
 
 
 # Farshid Nooshi
