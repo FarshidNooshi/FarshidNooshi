@@ -2,6 +2,7 @@
 
 I am a Computer Engineering student at Amirkabir University of Technology. I've started to search about my interests in real world and find those that fits me best.
 
+<!--
 **FarshidNooshi/FarshidNooshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
