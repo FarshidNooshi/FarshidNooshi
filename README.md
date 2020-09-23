@@ -4,7 +4,7 @@ I am a Computer Engineering student at Amirkabir University of Technology. I've 
 
 
 # Farshid Nooshi
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact" alt="FarshidNooshi" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact" alt="FarshidNooshi" /> </p>
 
 [![Farshid's github stats](https://github-readme-stats.vercel.app/api?username=FarshidNooshi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
