@@ -2,12 +2,6 @@
 
 I am a Computer Engineering student at Amirkabir University of Technology. I've started to search about my interests in real world and find those that fits me best.
 
-
-# Farshid Nooshi
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact" alt="FarshidNooshi" /> </p>
-
-[![Farshid's github stats](https://github-readme-stats.vercel.app/api?username=FarshidNooshi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 **FarshidNooshi/FarshidNooshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
