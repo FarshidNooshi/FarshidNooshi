@@ -1,7 +1,7 @@
 ### In The Name Of GOD
 
 20 years old Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C++, C#, ElasticSearch, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. 
-welcome to my personal github profile.
+
 
 <!--
 **FarshidNooshi/FarshidNooshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
