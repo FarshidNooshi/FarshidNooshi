@@ -1,6 +1,6 @@
 ### In The Name Of GOD
 
-20 years old Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C++, C#, ElasticSearch, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. 
+Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C++, C#, ElasticSearch, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. 
 
 
 <!--
