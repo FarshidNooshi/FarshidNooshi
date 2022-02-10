@@ -1,6 +1,5 @@
 ### In The Name Of GOD
 
-Junior Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C++, C#, ElasticSearch, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. 
 
 
 <!--
@@ -17,3 +16,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hey this is Farshid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+# About me 
+
+I'm Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C++, C#, ElasticSearch, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. 
+
+My github account information is as follow:
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&show_icons=True"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
+
+## Contact Me
+
+Feel free contacting me via the following links:
+
+<div align="center">
+        <a href="https://www.linkedin.com/in/farshidnooshi/">
+            <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
+        </a>
+        <a href="https://www.instagram.com/farshidnooshi/">
+            <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
+        </a>
+        <a href="https://ce.aut.ac.ir/~Farshid_Nooshi">
+            <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
+        </a>
+</div>
+
+<p align=center>
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=farshidnooshi/farshidnooshi">
+
+</p>
