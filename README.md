@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # About me 
 
-I'm Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C++, C#, ElasticSearch, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. 
+I'm a Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C#, Python, Machine Learning algorithms, Deep Learning, ElasticSearch, C++, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic.
 
 ## My github account information is as follow:
 
