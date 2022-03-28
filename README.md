@@ -38,6 +38,14 @@ It will be my pleasure to help everyone with thier problems based on my codes an
     </tr>
 </table>
 
+<p align="center">
+
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/FarshidNooshi)
+
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=react-dark)](https://github.com/FarshidNooshi)
+
+</p>
+
 ## Contact Me
 
 Feel free contacting me via the following links:
