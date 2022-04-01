@@ -1,23 +1,5 @@
 ### In The Name Of GOD
 
-
-
-<!--
-**FarshidNooshi/FarshidNooshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Hey this is Farshid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 # About me 
@@ -30,17 +12,17 @@ It will be my pleasure to help everyone with thier problems based on my codes an
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&show_icons=True"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&theme=dracula&show_icons=true"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&langs_count=10"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&theme=dracula&langs_count=8"/>
         </td>
     </tr>
 </table>
 
 <p align="center">
 
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/FarshidNooshi)
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
 
   [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=react-dark)](https://github.com/FarshidNooshi)
 
