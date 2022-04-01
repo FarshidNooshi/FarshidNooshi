@@ -24,7 +24,7 @@ It will be my pleasure to help everyone with thier problems based on my codes an
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
 
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=react-dark)](https://github.com/FarshidNooshi)
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=dracula)](https://github.com/FarshidNooshi)
 
 </p>
 
