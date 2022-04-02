@@ -34,7 +34,7 @@ Feel free contacting me via the following links:
 
 <div align="center">
         <a href="https://www.linkedin.com/in/farshidnooshi/">
-            <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
+            <img alt="Farshid Nooshi's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
         <a href="https://www.instagram.com/farshidnooshi/">
             <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
