@@ -38,8 +38,11 @@ Feel free contacting me via the following links:
         <a href="https://www.linkedin.com/in/farshidnooshi/">
             <img alt="Farshid Nooshi's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
+        <a href="mailto:farshidnooshi726@aut.ac.ir">
+            <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
+        </a>
         <a href="https://www.instagram.com/farshidnooshi/">
-            <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
+            <img alt="Farshid Nooshi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
         <a href="comming soon.">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
