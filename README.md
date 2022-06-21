@@ -6,7 +6,7 @@
 <!--     <h1>In The Name Of GOD</h1> -->
     <h2> Hey this is Farshid!  </h2>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=00EDFF&center=true&vCenter=true&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;Part-time+Software+Engineer;AI%26ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=00EDFF&center=true&vCenter=true&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;Part-time+Software+Engineer;AI%26ML+Enthusiast)](https://github.com/FarshidNooshi)
     
 </div>
 
