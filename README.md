@@ -50,7 +50,7 @@ Feel free contacting me via the following links:
         <a href="https://www.instagram.com/farshidnooshi/">
             <img alt="Farshid Nooshi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
-        <a href="comming soon.">
+        <a href="https://ce.aut.ac.ir/~Farshid_Nooshi">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a>
 </div>
