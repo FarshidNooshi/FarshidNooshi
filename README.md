@@ -12,7 +12,7 @@
 
 # About me 
 
-I'm a Software Engineer with a history of working in the information technology and services industry. Skilled in Java, C#, Python, Machine Learning algorithms, Deep Learning, ElasticSearch, C++, and Algorithms. Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology - Tehran Polytechnic. I'm currently focused on learning different artificial intelligence problems and how to solve them properly, I am also very interested in implementing different software tools. I'm currently working in a team of software engineers at Mohaymen ICT group on developing a datascience software and my responsibility is to work with different databases and implement various algorithms. 
+I am a Software Engineer with a history of working in the software industry. I am Skilled in Java, C#, Python, C++, Machine Learning, Deep Learning and ElasticSearch. I have a Continuing Bachelor's degree focused in Computer Engineering from the Amirkabir University of Technology(Tehran Polytechnic). I am currently focused on learning more about *artificial intelligence* problems and how to solve them properly, I am also very interested in implementing different software tools and I am currently working as a software developer and a member of a team of skilled software engineers at Mohaymen ICT group on developing a software tool for data science. 
 It will be my pleasure to help everyone with thier problems based on my codes and knowledge. 
 
 ## My github account information is as follow:
