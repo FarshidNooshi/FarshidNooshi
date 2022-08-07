@@ -12,8 +12,9 @@
 
 # About me 
 
-I am a Full-time Computer Engineering Student at the Amirkabir University of Technology(Tehran Polytechnic) and a Part-time Software Engineer with a history of working in the software industry. I am Skilled in Java, C#, Python, C++, Machine Learning, Deep Learning, and ElasticSearch. I am currently focused on learning more about *artificial intelligence* problems and how to solve them correctly, I am also very interested in implementing different software tools, and I am currently working as a software developer and a member of a team of skilled software engineers at Mohaymen ICT group on developing a software tool for data science. 
-I will be pleased to help everyone with their problems based on my codes and knowledge. 
+I am a Full-time Computer Engineering Student at the Amirkabir University of Technology(Tehran Polytechnic) and a Part-time Software Engineer with a history of working in the software industry. I am Skilled in Java, C#, Python, C++, Machine Learning, Deep Learning, and ElasticSearch. I am currently focused on learning more about *artificial intelligence* problems and how to solve them correctly, I am also very interested in implementing different software tools, and I am currently working as a software developer and a member of a team of skilled software engineers at Mohaymen ICT group on developing a software tool for data science.\
+I will be pleased to help everyone with their problems based on my codes and knowledge.\
+I am Positive, a fast learner, and passionate about working on large-scale ML-based projects in an active environment.
 
 ## My github account information is as follow:
 
