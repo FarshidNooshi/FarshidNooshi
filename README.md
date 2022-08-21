@@ -2,9 +2,9 @@
     <h1>In The Name Of GOD</h1>
 </div>
 
+## Hey This is Farshid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
 <div align="center">
-<!--     <h1>In The Name Of GOD</h1> -->
-    <h2> Hey this is Farshid!  </h2>
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=00EDFF&center=true&vCenter=true&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;Part-time+Software+Engineer;AI%26ML+Enthusiast)](https://github.com/FarshidNooshi)
     
