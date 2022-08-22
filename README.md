@@ -56,7 +56,7 @@ Feel free contacting me via the following links:
         <a href="https://www.linkedin.com/in/farshidnooshi/">
             <img alt="Farshid Nooshi's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
-        <a href="mailto:farshidnooshi726@gmail.com">
+        <a href="mailto:farshidnooshi726@hotmail.com">
             <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
         </a>
         <a href="https://www.instagram.com/farshidnooshi/">
