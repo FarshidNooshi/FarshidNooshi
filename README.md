@@ -56,9 +56,6 @@ I am Positive, a fast learner, and passionate about working on large-scale ML-ba
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
 </p>
 
----
-
-
 
 ## My github account information is as follow:
 
