@@ -89,14 +89,14 @@ Feel free contacting me via the following links:
         <a href="mailto:farshidnooshi726@hotmail.com">
             <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
         </a>
+        <a href="https://www.kaggle.com/nooshifarshid">
+            <img src="https://img.icons8.com/windows/512/228BE6/kaggle.png" width=32/>
+        </a>
         <a href="https://www.instagram.com/farshidnooshi/">
             <img alt="Farshid Nooshi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
         <a href="https://ce.aut.ac.ir/~Farshid_Nooshi">
             <img alt="Farshid Nooshi's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
-        </a>
-        <a href="https://www.kaggle.com/nooshifarshid">
-            <img src="https://img.icons8.com/windows/512/228BE6/kaggle.png" width=32/>
         </a>
 </div>
 
