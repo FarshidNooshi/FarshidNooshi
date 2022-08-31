@@ -57,7 +57,7 @@ I am a cheerful, fast learner and passionate about working on large-scale ML-bas
 
 ## My github account information is as follow:
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border:hidden;" border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&theme=dracula&show_icons=true&hide_border=true"/>
