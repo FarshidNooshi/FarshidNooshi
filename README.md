@@ -63,7 +63,7 @@ I am a cheerful, fast learner and passionate about working on large-scale ML-bas
             <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&theme=dracula&show_icons=true&hide_border=true"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&hide_border=true&theme=dracula&langs_count=8"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&hide_border=true&theme=dracula&langs_count=9"/>
         </td>
     </tr>
 </table>
