@@ -70,7 +70,7 @@ I am a cheerful, fast learner and passionate about working on large-scale ML-bas
 
 <p align="center">
 
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/FarshidNooshi)
 
   [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=dracula)](https://github.com/FarshidNooshi)
 
