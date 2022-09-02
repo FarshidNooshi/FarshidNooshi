@@ -100,6 +100,5 @@ Feel free contacting me via the following links:
 
 <p align=center>
 <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=FarshidNooshi/FarshidNooshi">
-
+    <img src="https://komarev.com/ghpvc/?username=FarshidNooshi&style=for-the-badge&label=PROFILE+VIEWS&color=blue">
 </p>
