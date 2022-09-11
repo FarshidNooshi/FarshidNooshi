@@ -56,7 +56,7 @@ I am a cheerful, fast learner and passionate about working on large-scale ML-bas
 </p>
 
 
-## My github account information is as follow:
+## My Github account information is as follows:
 
 <table style="border:hidden;" border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -79,7 +79,7 @@ I am a cheerful, fast learner and passionate about working on large-scale ML-bas
 
 ## Contact Me
 
-Feel free contacting me via the following links:
+Feel free to contact me via the following links:
 
 <div align="center">
         <a href="https://www.linkedin.com/in/farshidnooshi/">
