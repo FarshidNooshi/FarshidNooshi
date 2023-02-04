@@ -11,9 +11,13 @@
 
 # About me 
 
-I am a Full-time Computer Engineering Student at the Amirkabir University of Technology(Tehran Polytechnic) and a Part-time Software Engineer with a history of working in the software industry. My primary skills are Java, C#, Python, C++, Machine Learning, Deep Learning, and ElasticSearch. I am presently concentrating on learning more about artificial intelligence problems and how to solve them correctly. I am also very inquisitive in implementing different software tools. I am presently working as a software developer and a member of a team of professional software engineers at Mohaymen ICT company on developing a software tool for data science.\
-I will be pleased to help everyone with their problems founded on my codes and knowledge.\
-I am a cheerful, fast learner and passionate about working on large-scale ML-based projects in an active environment.
+As a Full-time Computer Engineering Student at the Amirkabir University of Technology (Tehran Polytechnic), I am passionate about Artificial Intelligence and Machine/Deep Learning. My expertise includes proficient programming skills in .NET, Python, and Java. With a history of working in the software industry, I have a proven track record of developing innovative software solutions for various clients.
+
+Presently, as a Part-time Software Engineer at Mohaymen ICT Company, I am part of a team of professional software engineers working on developing a data science tool. My focus is on providing efficient and reliable solutions for handling large data.
+
+I am always eager to expand my knowledge in the field of computer engineering and am dedicated to producing high-quality work. If you have any questions or problems with my codes or knowledge, I will be more than happy to assist.
+
+Overall, I am a fast learner, highly motivated, and always eager to take on new challenges. I look forward to exploring new opportunities in the field of Artificial Intelligence and Machine/Deep Learning.
 
 ## Programming Languages, Technologies and Tools 
 <p align="left"> 
