@@ -6,7 +6,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=00EDFF&center=true&vCenter=true&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;Part-time+Software+Engineer;AI%26ML+Enthusiast)](https://github.com/FarshidNooshi)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=B.Sc.+of+Computer+Engineering;Amirkabir+University+of+Technology;Software+Engineer;AI+%26+ML+Enthusiast)](https://github.com/FarshidNooshi)    
 </div>
 
 # About me 
