@@ -21,7 +21,7 @@ Overall, I am a fast learner, highly motivated, and always eager to take on new 
 
 ## Programming Languages, Technologies and Tools 
 <p align="center"> 
-<a href="https://github.com/FarshidNooshi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,latex,matlab,arduino,dotnet,java,py,go,c,cpp,django,docker,mysql,angular,vscode,visualstudio&perline=17" /> </a>
+<a href="https://github.com/FarshidNooshi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,latex,matlab,arduino,dotnet,java,py,go,c,cpp,django,docker,mysql,angular,vscode,visualstudio,idea&perline=18" /> </a>
 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
