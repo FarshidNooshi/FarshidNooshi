@@ -13,7 +13,9 @@
 
 As a Full-time Computer Engineering Student at the Amirkabir University of Technology (Tehran Polytechnic), I am passionate about Artificial Intelligence and Machine/Deep Learning. My expertise includes proficient programming skills in .NET, Python, and Java. With a history of working in the software industry, I have a proven track record of developing innovative software solutions for various clients.
 
-Presently, as a Part-time Software Engineer at Mohaymen ICT Company, I am part of a team of professional software engineers working on developing a data science tool. My focus is on providing efficient and reliable solutions for handling large data.
+Presently, as a GoLang back-end developer at SnappTrip, I am part of a team that develops software using microservice architecture with modern and best practices software solutions. My focus is on developing high-quality software with robust features that meet the needs of our clients.
+
+Prior to my work at SnappTrip, I developed other software solutions at Mohaymen ICT Company. This experience has given me a strong foundation in software development and helped me hone my skills in creating efficient, reliable, and user-friendly software. With this experience and the knowledge gained through my studies, I am confident in my ability to continue producing high-quality software solutions.
 
 I am always eager to expand my knowledge in the field of computer engineering and am dedicated to producing high-quality work. If you have any questions or problems with my codes or knowledge, I will be more than happy to assist.
 
