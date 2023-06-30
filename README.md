@@ -79,7 +79,8 @@ Overall, I am a fast learner, highly motivated, and always eager to take on new 
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/FarshidNooshi)
 
-  [![Farshid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FarshidNooshi&theme=dracula)](https://github.com/FarshidNooshi)
+  [![Farshid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarshidNooshi&theme=dracula)](https://github.com/FarshidNooshi)
+
 </p>
 
 ## Contact Me
