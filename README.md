@@ -11,7 +11,7 @@
 
 # About me 
 
-As a Full-time Computer Engineering Student at the Amirkabir University of Technology (Tehran Polytechnic), I am passionate about Artificial Intelligence and Machine/Deep Learning. My expertise includes proficient programming skills in .NET, Python, and Java. With a history of working in the software industry, I have a proven track record of developing innovative software solutions for various clients.
+As a Full-time Computer Engineering Student at the Amirkabir University of Technology (Tehran Polytechnic), I am passionate about Artificial Intelligence and Machine/Deep Learning. My expertise includes proficient programming skills in Python, GoLang, .NET, and Java. With a history of working in the software industry, I have a proven track record of developing innovative software solutions for various clients.
 
 Presently, as a GoLang Back-end developer at SnappTrip, one of the best IT companies in Iran. I actively contributed to diverse backend projects aimed at enhancing the software. I played a role in developing and maintaining micro-services for high-traffic e-commerce platforms, implementing robust APIs, and integrating with external services. Additionally, I collaborated with cross-functional teams to optimize database performance, ensure data integrity, and enhance system scalability.
 
