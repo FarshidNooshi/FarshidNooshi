@@ -100,9 +100,9 @@ Feel free to contact me via the following links:
         <a href="https://www.instagram.com/farshidnooshi/">
             <img alt="Farshid Nooshi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
-<!--         <a href="https://farshidnooshi.github.io/">
+        <a href="https://farshidnooshi.github.io/">
             <img alt="Farshid Nooshi's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
-        </a> -->
+        </a>
 </div>
 
 <p align=center>
