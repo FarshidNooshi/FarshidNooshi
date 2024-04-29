@@ -7,7 +7,9 @@ I am driven by a thirst for knowledge and a desire to make a meaningful impact. 
 Let's connect and explore how we can collaborate to bring innovative ideas to life.
 
 My GitHub Profile: https://github.com/FarshidNooshi
+
 My Kaggle Profile: https://www.kaggle.com/nooshifarshid
+
 My LinkedIn Profile: https://www.linkedin.com/in/farshidnooshi/
 
 <!--
